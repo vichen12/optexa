@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(node -e \":*)",
+      "Bash(\"C:\\\\Users\\\\viche\\\\Desktop\\\\optexa\\\\optexa-landing\\\\src\\\\components\\\\Portfolio.jsx\")",
+      "Bash(ls:*)",
+      "Bash(\"C:/Users/viche/Desktop/optexa/optexa-landing/src/components/SystemTypes.jsx\")",
+      "Bash(dir:*)"
+    ]
+  }
+}
